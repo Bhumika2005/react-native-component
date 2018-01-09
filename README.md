@@ -14,7 +14,7 @@ Step2: $ react-native init ProjectName
             or
 Getting Started from this link : https://facebook.github.io/react-native/docs/getting-started.html
 
-  # Installtion below Component which are used in this repo
+  # Install below Component
     1)React Navigation for StackNavigator and TabNavigator
       $npm install --save react-navigation
       in .js file import {StackNavigator,TabNavigator} from 'react-navigation';
