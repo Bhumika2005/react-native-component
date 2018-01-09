@@ -10,7 +10,7 @@ How to navigate between screen, how to send data from one screen to another scre
 # Documentation
 Create project :
 Step1: Give your destination "cd /path" 
-Step2: $ react-native init ProjectName
+Step2: $react-native init ProjectName
             or
 Getting Started from this link : https://facebook.github.io/react-native/docs/getting-started.html
 
