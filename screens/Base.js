@@ -2,7 +2,7 @@
 import SideMenu from 'react-native-side-menu';
 
 import React, {Component} from 'react';
-import { StyleSheet,View,Text,TouchableOpacity,Image} from 'react-native';
+import {StyleSheet,View,Text,TouchableOpacity,Image} from 'react-native';
 import Menu from './Menu';
 import {StackNavigator,NavigationActions,TabNavigator} from 'react-navigation';
 import Home from './Home';
